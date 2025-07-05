@@ -1,5 +1,5 @@
 # AI-Powered "Resume-to-Job Matcher" with LinkedIn Scraping
-      A tool that analyzes job descriptions vs. resumes using NLP, scores fit, and suggests optimizations
+ A tool that analyzes job descriptions vs. resumes using NLP, scores fit, and suggests optimizations
 
 **Scope:** Web app with resume parsing, job scraping, and AI scoring.
 
